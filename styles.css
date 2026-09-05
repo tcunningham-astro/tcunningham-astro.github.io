@@ -15,8 +15,8 @@ img {
 }
 
 .astro-image-research {
-    width: 200px;
-    max-width: 100%;
+    width: 20px;
+    max-width: 80%;
     height: auto;
     float: right;
     margin-left: 20px;

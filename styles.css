@@ -39,3 +39,11 @@ img {
 .main-nav a {
     text-decoration: none;
 }
+
+body {
+    color: #cc0000 !important;
+}
+
+p {
+    color: #cc0000 !important;
+}

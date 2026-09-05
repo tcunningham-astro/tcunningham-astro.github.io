@@ -36,8 +36,15 @@ img {
     gap: 15px;
 }
 
-.main-nav a {
+.main-nav a,
+.main-nav a:visited {
+    color: #8CA5BA;
     text-decoration: none;
+}
+
+.main-nav a:hover,
+.main-nav a.active {
+    color: #5F788C;
 }
 
 body {

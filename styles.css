@@ -13,12 +13,3 @@ img {
     max-width: 80%;
     height: auto;
 }
-
-.astro-image-research {
-    width: 20px;
-    max-width: 80%;
-    height: auto;
-    float: right;
-    margin-left: 20px;
-    margin-bottom: 6px;
-}

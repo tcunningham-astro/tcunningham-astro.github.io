@@ -47,6 +47,16 @@ img {
     color: #5F788C;
 }
 
+a,
+a:visited {
+    color: #8CA5BA;
+}
+
+a:hover,
+a:focus {
+    color: #5F788C;
+}
+
 body {
     color: #8CA5BA !important;
 }
